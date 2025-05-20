@@ -21,3 +21,8 @@ sections:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
 ---
+<ul>
+  {{ range .Pages }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
