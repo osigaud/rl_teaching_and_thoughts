@@ -6,9 +6,6 @@ title: Olivier Sigaud
 first_name: Olivier
 last_name: Sigaud
 
-# Status emoji
-status:
-
 # Is this the primary user of the site?
 superuser: true
 
