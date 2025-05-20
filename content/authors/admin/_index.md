@@ -9,6 +9,10 @@ last_name: Sigaud
 # Is this the primary user of the site?
 superuser: true
 
+# Status emoji
+status:
+  icon: ☕️
+
 # Role/position/tagline
 role: Professor of Reinforcement Learning
 
