@@ -46,5 +46,4 @@ highlight_name: true
 website: ""
 ---
 
-Olivier Sigaud is a professor of artificial intelligence at Sorbonne Université. His research interests include
-reinforcement learning and AI for robotics.
+Science is when it doesn't work but we know why ; Engineering is when it works but we don't know why ; Reinforcement learning combines Science and Engineering: it doesn't work and we don't knwo why
