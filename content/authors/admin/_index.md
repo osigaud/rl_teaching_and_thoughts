@@ -1,9 +1,6 @@
 ---
 # Display name
-title: Pr.
-
-# Name pronunciation (optional)
-name_pronunciation: Olivier Sigaud
+title: Olivier Sigaud
 
 # Full name (for SEO)
 first_name: Olivier
@@ -11,13 +8,12 @@ last_name: Sigaud
 
 # Status emoji
 status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Reinforcement Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +21,7 @@ organizations:
     url: https://www.isir.upmc.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning and AI for robotics
+bio: My research interests include Reinforcement Learning and AI for robotics
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
