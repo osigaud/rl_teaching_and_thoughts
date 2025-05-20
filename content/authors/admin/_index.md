@@ -27,7 +27,7 @@ bio: My research interests include Reinforcement Learning and AI for robotics
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:Olivier.Sigaud@isir.upmc.fr'
+    url: 'mailto:Olivier.Sigaud@sorbonne-universite.fr'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/
