@@ -2,7 +2,7 @@
 title: Blog about ML community thoughts
 ---
 
-### [A good title is all you need](good_title/)
+### [A good title is all you need]({{< relref "blog/good_title.md" >}})
 
 ## Other stuff
 
